@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Proyecto Restauración 
 
 You can use the [editor on GitHub](https://github.com/Cristina1498/Proyecto-final-C9-E1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
